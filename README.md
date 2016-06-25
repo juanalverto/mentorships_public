@@ -18,8 +18,10 @@ I can help you with:
 - Mathematics
 - Economics
 - Machine learning
+- Design thinking
+- Data analysis
 
-Feel free to book an appointment with me using the badges at the top of this text.
+Feel free to book an appointment with me using the badges at the top of this text. I'm a friendly guy that enjoys helping people solve complex problems. The first couple of minutes are free!
 
 Note: this repository was started recently, therefore you will not find too many examples for now. Hopefully I'll be filling this with lots of interesting examples.
 
