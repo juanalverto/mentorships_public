@@ -11,7 +11,7 @@
 
 ## Problem
 
-Using [Django REST Framework]() search for an model instance by one of its attributes.
+Using [Django REST Framework](http://www.django-rest-framework.org/) search for an model instance by one of its attributes.
 
 ## Solutions
 
@@ -61,9 +61,11 @@ http://localhost:8000/items/10/
 
 - URL setup in the `items` app
 
+```
 urlpatterns = [
     url('^(?P<sku>.+)/$', viewsets.ItemListUsingURL.as_view())
 ]
+```
 
 - ViewSet for the `Item` model
 
