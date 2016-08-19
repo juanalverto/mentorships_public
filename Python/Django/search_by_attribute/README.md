@@ -11,7 +11,7 @@
 
 ## Problem
 
-Using [Django REST Framework](http://www.django-rest-framework.org/) to search for a model instance by one of its attributes.
+Use [Django REST Framework](http://www.django-rest-framework.org/) to search for a model instance by one of its attributes.
 
 ## Solutions
 
